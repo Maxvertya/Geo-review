@@ -143,7 +143,7 @@ let init = () => {
 		return formWrapper;
 	};
 
-	yMap.cursors.push('crosshair');
+	yMap.cursors.push('pointer');
 
 	let coordsArray = getCoordinatesFromStorage();
 
